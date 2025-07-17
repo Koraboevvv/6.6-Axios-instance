@@ -2,7 +2,7 @@ import React from 'react'
 import Home from './pages/home/Home'
 import About from './pages/about/About'
 import Contact from './pages/contact/Contact'
-import Help from './pages/help/help'
+import Help from './pages/help/Help';
 import { BrowserRouter,Routes,Route } from 'react-router-dom'
 import Header from './components/header/Header'
 import Layout from './pages/layout/Layout'
