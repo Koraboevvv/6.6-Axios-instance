@@ -27,6 +27,7 @@ const Help = () => {
             You can contact us via the contact form or email us directly at <span className="text-blue-500 cursor-pointer">Koraboev@gmail.com</span>.
           </p>
         </div>
+        
         <div>
           <h2 className="text-xl font-semibold">⚙️ Something isn’t working. What now?</h2>
           <p className="text-gray-600">
