@@ -8,7 +8,7 @@ const Footer = () => {
       <div className="container mx-auto px-4 grid grid-cols-1 md:grid-cols-4 gap-8">
         
         <div>
-          <h2 className="text-xl font-bold mb-4 text-white">MySite</h2>
+          <h2 className="text-xl font-bold mb-4 text-white">Logoo</h2>
           <p className="text-sm text-gray-400">
             Качественные решения для вашего веб-пространства. Быстро. Стильно. Надёжно.
           </p>
@@ -46,7 +46,7 @@ const Footer = () => {
       </div>
 
       <div className="border-t border-gray-700 mt-10 pt-4 text-center text-sm text-gray-500">
-        &copy; {new Date().getFullYear()} MySite. Все права защищены.
+        &copy; {new Date().getFullYear()} Logoo. Все права защищены.
       </div>
     </footer>
   )
